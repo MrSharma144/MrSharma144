@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Sharma</h1>
-<h3 align="center">Full Stack Developer | React • Django • Tailwind • JavaScript</h3>
+<h3 align="center">Full Stack Developer | React • Django • Python • JavaScript</h3>
 
 <p align="center">
 📍 Ghaziabad, Uttar Pradesh, India  
